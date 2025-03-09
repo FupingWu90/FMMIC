@@ -1,5 +1,5 @@
 # FMMIC
-Rethinking Non-Medical Foundation Models for Medical Image Classification (paper link: https://arxiv.org/abs/2501.14685)
+[Rethinking Non-Medical Foundation Models for Medical Image Classification](paper link: https://arxiv.org/abs/2501.14685)
 
 
 ## run
