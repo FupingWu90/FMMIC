@@ -1,5 +1,5 @@
 # FMMIC
-[Rethinking Non-Medical Foundation Models for Medical Image Classification](paper link: https://arxiv.org/abs/2501.14685)
+[Rethinking Non-Medical Foundation Models for Medical Image Classification](https://arxiv.org/abs/2501.14685)
 
 
 ## run
@@ -9,4 +9,4 @@
 
 
 ## Acknowledgement
-This work is inspired by [Rethinking model prototyping through the MedMNIST+ dataset collection]([Rethinking model prototyping through the MedMNIST+ dataset collection](https://www.nature.com/articles/s41598-025-92156-9)).
+This work is inspired by [Rethinking model prototyping through the MedMNIST+ dataset collection](https://www.nature.com/articles/s41598-025-92156-9).
